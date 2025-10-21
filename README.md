@@ -10,7 +10,8 @@ Steve Project List and File Directory/history
 - FGF1800:
 - UPLB Industrial microscope
 - Arduino Set C Revision
-
+- OLD 3D Print Service Quotes
+- Creality K1C CFS Expansion Review
 
 ### Projects
 - Flexibot: Check this other ReadME file
@@ -20,3 +21,6 @@ Steve Project List and File Directory/history
 - Wand Lights
 - Morag Lights
 - Omnibot
+- Myrtle Cannon project
+- ENIX
+- Microbit Projects
