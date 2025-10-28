@@ -14,7 +14,7 @@ Steve Project List and File Directory/history
 - Creality K1C CFS Expansion Review
 
 ### Projects
-- Flexibot: Check this other ReadME file
+- Flexibot
 - Bini Light Stick
 - Arduino Trainer Kit
 - Visser
@@ -24,3 +24,14 @@ Steve Project List and File Directory/history
 - Myrtle Cannon project
 - ENIX
 - Microbit Projects
+- Aquatic wheel
+- Morag tower lights
+- Cling Wrap holder
+- IOT con AI Vending machine
+- Metal Sumobot
+- Labubu
+- Winnovation Semi universal test socket
+- ESP32- SQL
+- Abenics Spherical gear drive
+- Moving eyeball
+- Turbine
